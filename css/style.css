@@ -1,0 +1,11 @@
+.topbar{
+    background-color: #e67e22;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 25px;
+}
+
+.fa-facebook{
+    margin-right: 10px;
+}
