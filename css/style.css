@@ -133,3 +133,48 @@
 #how-it-works{
     margin: 100px 200px;
 }
+
+
+
+.text-part h1{
+    color: #999;
+    font-size: 100px;
+    font-family: sans-serif;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.text-part h3{
+    font-size: 35px;
+    color: #333;
+    font-weight: bold;
+    font-family: sans-serif;
+    letter-spacing: -0.7px;
+    margin-top: 0;
+}
+
+.text-part p{
+    font-size: 22px;
+    font-family: sans-serif;
+    color: #777;
+}
+
+.image-part img{
+    width: 60%;
+}
+
+.text-part{
+    width: 60%;
+}
+
+
+.part1{
+    display: flex;
+    gap: 75px;
+}
+
+
+.image-part{
+    text-align: right;
+}
+
